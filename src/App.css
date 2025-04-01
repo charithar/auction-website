@@ -7,3 +7,22 @@ html * {
   cursor: pointer;
   box-shadow: 0 0 0.2rem gray;
 }
+
+.product-image {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+}
+
+.popup-product-image {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  max-height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  font-style: italic;
+}

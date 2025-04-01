@@ -1,119 +1,439 @@
 - id: 0
-  primaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  title: The Wizard Cat
-  subtitle: A Magical Evening
-  detail: A whimsical cat donning a wizard's attire, standing on hind legs amidst a starry night sky and a crescent moon, casting a spell of charm.
-  secondaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  currency: £
-  amount: 55
-  endTime: 2023-04-25T00:05:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: SGH741POJY
+  detail: HP prodesk 400 G4 i5 16GB 1TB HDD 
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 6000
+  endTime: 2025-04-04T00:05:00+00:00
 
 - id: 1
-  primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
-  title: The Relaxing Cat
-  subtitle: Tropical Bliss
-  detail: A carefree cat lounging in a hammock, encircled by vibrant greenery, sipping a tropical beverage, embodying the essence of relaxation.
-  secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
-  currency: £
-  amount: 60
-  endTime: 2023-04-25T00:10:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: SGH812P07P
+  detail: HP prodesk 400 G4 i5 16GB 1TB HDD 
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 6000
+  endTime: 2025-04-04T00:05:00+00:01
 
 - id: 2
-  primaryImage: DALL·E 2023-12-17 17.21.50 - A curious cat peering out of a spaceship window, with distant planets and stars visible in the background, giving a sense of wonder and explorat
-  title: The Space Explorer Cat
-  subtitle: Cosmic Curiosity
-  detail: A curious cat gazing from a spaceship window, the cosmos with planets and stars stretching out behind, capturing the spirit of space exploration.
-  secondaryImage: DALL·E 2023-12-17 17.21.50 - A curious cat peering out of a spaceship window, with distant planets and stars visible in the background, giving a sense of wonder and explorat
-  currency: £
-  amount: 20
-  endTime: 2023-04-25T00:15:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: SGH812P09V
+  detail: HP prodesk 400 G4 i5 16GB 1TB DOS
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 6000
+  endTime: 2025-04-04T00:05:00+00:02
 
 - id: 3
-  primaryImage: DALL·E 2023-12-17 17.21.53 - A cat dressed as a detective, complete with a trench coat and magnifying glass, standing in a dimly lit alleyway, looking mysterious and ready t
-  title: The Detective Cat
-  subtitle: Mystery in the Alley
-  detail: A mysterious detective cat, clad in a classic trench coat, magnifying glass in paw, standing in a shadowy alley, ready to unravel mysteries.
-  secondaryImage: DALL·E 2023-12-17 17.21.53 - A cat dressed as a detective, complete with a trench coat and magnifying glass, standing in a dimly lit alleyway, looking mysterious and ready t
-  currency: £
-  amount: 0
-  endTime: 2023-04-25T00:20:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: SGH805PCHS
+  detail: HP prodesk 400 G4 i5 8GB 500GB SSD
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 7500
+  endTime: 2025-04-04T00:05:00+00:03
 
 - id: 4
-  primaryImage: DALL·E 2023-12-17 17.21.58 - A cat artist painting a masterpiece, surrounded by colorful paint tubes and brushes, with a beret on its head and a look of deep concentration
-  title: The Artist Cat
-  subtitle: A Stroke of Genius
-  detail: An artistic cat deeply engrossed in painting, surrounded by a kaleidoscope of paint tubes and brushes, a beret perched artistically atop its head.
-  secondaryImage: DALL·E 2023-12-17 17.21.58 - A cat artist painting a masterpiece, surrounded by colorful paint tubes and brushes, with a beret on its head and a look of deep concentration
-  currency: £
-  amount: 4
-  endTime: 2023-04-25T00:25:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: SGH809R4ZJ
+  detail: HP prodesk 400 G4 i5 8GB 500GB HDD
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:04
 
 - id: 5
-  primaryImage: DALL·E 2023-12-17 17.22.00 - A majestic cat wearing a king's crown and robe, sitting on a luxurious throne with an expression of regal dignity, in a grand castle hall
-  title: The Regal Cat
-  subtitle: Royal Elegance
-  detail: A majestic cat adorned with a regal crown and robe, seated upon a throne in a grand hall, exuding noble grace and dignity.
-  secondaryImage: DALL·E 2023-12-17 17.22.00 - A majestic cat wearing a king's crown and robe, sitting on a luxurious throne with an expression of regal dignity, in a grand castle hall
-  currency: £
-  amount: 0
-  endTime: 2023-04-25T00:30:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G5
+  subtitle: 4CE838OBX7
+  detail: HP prodesk 400 G5 i5 8GB 500GB SSD / Win10 Pro
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 7500
+  endTime: 2025-04-04T00:05:00+00:05
 
 - id: 6
-  primaryImage: DALL·E 2023-12-17 17.22.03 - A cat astronaut floating in space, with a tiny space helmet and a backdrop of a colorful nebula and twinkling stars, looking amazed by the cosmi
-  title: The Astronaut Cat
-  subtitle: Starry-Eyed Explorer
-  detail: An astronaut cat adrift in the vastness of space, tiny helmet on, awestruck by the surrounding nebula and stars, a true cosmic adventurer.
-  secondaryImage: DALL·E 2023-12-17 17.22.03 - A cat astronaut floating in space, with a tiny space helmet and a backdrop of a colorful nebula and twinkling stars, looking amazed by the cosmi
-  currency: £
-  amount: 99
-  endTime: 2023-04-25T00:35:00+00:00
+  primaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  title: Prodesk 400 G4
+  subtitle: 4CE824310K
+  detail: HP prodesk 400 G4 i5 8GB 500GB SSD / Win10
+  secondaryImage: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05377833.png
+  currency: Rs.
+  amount: 7500
+  endTime: 2025-04-04T00:05:00+00:06
 
 - id: 7
-  primaryImage: DALL·E 2023-12-17 17.22.07 - A cat chef cooking in a bustling kitchen, wearing a chef's hat and apron, surrounded by delicious food and kitchen utensils, looking focused and
-  title: The Chef Cat
-  subtitle: Culinary Master
-  detail: A professional chef cat in the midst of a bustling kitchen, donning a chef's hat and apron, surrounded by an array of delectable dishes and utensils.
-  secondaryImage: DALL·E 2023-12-17 17.22.07 - A cat chef cooking in a bustling kitchen, wearing a chef's hat and apron, surrounded by delicious food and kitchen utensils, looking focused and
-  currency: £
-  amount: 0
-  endTime: 2023-04-25T00:40:00+00:00
+  primaryImage: https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-3050/mt/global-spi/desktop-optiplex-3050-mt-black-right-relativesize-500-ng.psd?fmt=png-alpha&wid=500&hei=305
+  title: Optiplex 3050
+  subtitle: J9NN9M2
+  detail: Dell optiplex 3050 i5 8GB 1TB HDD / Win 10 Pro
+  secondaryImage: https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/optiplex-desktops/optiplex-3050/mt/global-spi/desktop-optiplex-3050-mt-black-right-relativesize-500-ng.psd?fmt=png-alpha&wid=500&hei=305
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:07
 
 - id: 8
-  primaryImage: DALL·E 2023-12-17 17.22.10 - A cat ninja stealthily moving through a moonlit garden, with a small sword and a mask, surrounded by blooming cherry blossoms and a tranquil pon
-  title: The Ninja Cat
-  subtitle: Moonlit Stealth
-  detail: A stealthy ninja cat, equipped with a tiny sword and mask, silently traversing a moonlit garden adorned with cherry blossoms and a serene pond.
-  secondaryImage: DALL·E 2023-12-17 17.22.10 - A cat ninja stealthily moving through a moonlit garden, with a small sword and a mask, surrounded by blooming cherry blossoms and a tranquil pon
-  currency: £
-  amount: 12
-  endTime: 2023-04-25T00:45:00+00:00
+  primaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  title: Optiplex 5040
+  subtitle: HSVKH62
+  detail: DELL OPTIPLEX 5040 MINI i5 3.2 GHz 8GB 1TB HDD
+  secondaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:08
 
 - id: 9
-  primaryImage: DALL·E 2023-12-17 17.22.12 - A cat pirate standing on the deck of a ship, with a pirate hat and an eye patch, holding a treasure map, with the ocean and a tropical island in
-  title: The Pirate Cat
-  subtitle: Seafaring Adventurer
-  detail: A rugged pirate cat on a ship's deck, eye patch and pirate hat in place, clutching a treasure map, with the ocean and an island in the backdrop.
-  secondaryImage: DALL·E 2023-12-17 17.22.12 - A cat pirate standing on the deck of a ship, with a pirate hat and an eye patch, holding a treasure map, with the ocean and a tropical island in
-  currency: £
-  amount: 6
-  endTime: 2023-04-25T00:50:00+00:00
+  primaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  title: Optiplex 5040
+  subtitle: HGB31H2
+  detail: DELL OPTIPLEX 5040 MINI i5 3.2 GHz 8GB 1TB HDD
+  secondaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:09
 
 - id: 10
-  primaryImage: DALL·E 2023-12-17 17.22.15 - A cat superhero flying through the city skyline, wearing a cape and a mask, with tall buildings and a setting sun in the background, looking her
-  title: The Superhero Cat
-  subtitle: Hero of the Skies
-  detail: A valiant superhero cat soaring through the cityscape, cape fluttering, mask on, against a backdrop of towering buildings and a setting sun.
-  secondaryImage: DALL·E 2023-12-17 17.22.15 - A cat superhero flying through the city skyline, wearing a cape and a mask, with tall buildings and a setting sun in the background, looking her
-  currency: £
-  amount: 3
-  endTime: 2023-04-25T00:55:00+00:00
+  primaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  title: Optiplex 5040
+  subtitle: HG891H2
+  detail: DELL OPTIPLEX 5040 MINI i5 3.2 GHz 8GB 1TB HDD
+  secondaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:10
 
 - id: 11
-  primaryImage: DALL·E 2023-12-17 17.22.17 - A cat relaxing on a sunny beach, with sunglasses, a sunhat, and a beach ball, surrounded by palm trees, with a clear blue ocean and a bright sky
-  title: The Beach Cat
-  subtitle: Sandy Serenity
-  detail: A relaxed cat enjoying a beach day, equipped with sunglasses and sunhat, beach ball at the ready, surrounded by palm trees and a crystal blue ocean.
-  secondaryImage: DALL·E 2023-12-17 17.22.17 - A cat relaxing on a sunny beach, with sunglasses, a sunhat, and a beach ball, surrounded by palm trees, with a clear blue ocean and a bright sky
-  currency: £
-  amount: 7
-  endTime: 2023-04-25T01:00:00+00:00
+  primaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  title: Optiplex 5040
+  subtitle: HFZ31H2
+  detail: DELL OPTIPLEX 5040 MINI i5 3.2 GHz 8GB 500GB HDD
+  secondaryImage: https://www.hardware-corner.net/wp-content/uploads/compare/Dell_OptiPlex_5040_MT.jpg
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:11
+
+- id: 12
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: 810GW22
+  detail: Dell Optiplex 3020 i5 3.2 Ghz 8GB 500GB HDD
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:12
+
+- id: 13
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: 8MXBHZ1
+  detail: Optiplex 3020 i5 3.2 GHz 8GB 1TB DVDRW / Win10 Pro
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:13
+
+- id: 14
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: SD0GW22
+  detail: Dell Optiplex 3020 i5 8GB 240GB SSD DVDRW / Win 10 pro
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:14
+
+- id: 15
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: BTPNF42
+  detail: Dell Optiplex 3020 i3 3.5 Ghz 6GB 500GB DVDRW / Win 10 Pro
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:15
+
+- id: 16
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: BPWXQ12
+  detail: Optiplex 3020 i5 3.2 GHz 4GB 500GB DVDRW
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:16
+
+- id: 17
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: 500GW22
+  detail: Optiplex 3020 i5 3.2 GHz 8GB 500GB DVDRW Win10 Pro
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:17
+
+- id: 18
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: 320GW22
+  detail: Dell Optiplex 3020 i5 3.2 Ghz 4GB 500GB DVD-RW / Win 10 Pro
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:18
+
+- id: 19
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: FM3HH32
+  detail: Dell Optiplex 3020 i5 8GB 120GB SSD DVDRW
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:19
+
+- id: 20
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: DBXBHZ1
+  detail: Dell Optiplex 3020 i5 3.2GHz 16GB 1TB HDD 
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 6000
+  endTime: 2025-04-04T00:05:00+00:20
+
+- id: 21
+  primaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  title: Optiplex 3020
+  subtitle: DF6RY42
+  detail: Dell Optiplex 3020 i5 8GB 500GB HDD DVD-RW
+  secondaryImage: https://i5.walmartimages.com/seo/Pre-Owned-Dell-Optiplex-3020-MT-i3-4130-3-40GHz-Wi-Fi-8GB-1TB-Win-10-Pro-1-Yr-Wty_c9b3c57f-68aa-4ab4-af02-927f48cded0b_1.a92392a05cf9029bc9555192625493e9.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:21
+
+- id: 22
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: 6CR4138BWN
+  detail: HP Prodesk 600-G1 i5 3.2GHz 8GB 500GB (Not Working)
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 2000
+  endTime: 2025-04-04T00:05:00+00:22
+
+- id: 23
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: 6CR4138BVX
+  detail: HP Prodesk 600-G1 i5 3.2GHz 8GB 500GB 
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:23
+
+- id: 24
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: 6CR4138BWS
+  detail: HP PRODESK 600 G1 i5 3.2 GHz 8GB 500GB DVD-RW / Win10 Pro
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:24
+
+- id: 25
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: 6CR4138BWK
+  detail: HP Prodesk 600-G1 i5 3.2GHz 8GB 500GB
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:25
+
+- id: 26
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: 6CR4138BXG
+  detail: HP Prodesk 600-G1 i5 3.2GHz 16GB 500GB
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:26
+
+- id: 27
+  primaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  title: Prodesk 600 G1
+  subtitle: SGH426RKDJ
+  detail: HP Prodesk 600-G1 i5 3.2GHz 8GB 500GB
+  secondaryImage: https://www.nexxcom.lk/wp-content/uploads/2025/03/HP-PRODESK-600-G1-i5-4590-8GB-500GB-HDD-Refurbished.png
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:27
+
+- id: 28
+  primaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  title: HP Pro 3130
+  subtitle: SGH107Q4ZR
+  detail: HP pro 3130MT i3-540  3.07 GHz 4GB RAM, 320GB HDD, DVD-RW / Win 7
+  secondaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  currency: Rs.
+  amount: 2500
+  endTime: 2025-04-04T00:05:00+00:28
+
+- id: 29
+  primaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  title: HP Pro 3130
+  subtitle: SGH107Q4ZZ
+  detail: HP pro 3130MT i3-540  3.07 GHz 4GB RAM, 320GB HDD, DVD-RW / Win 7
+  secondaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  currency: Rs.
+  amount: 2500
+  endTime: 2025-04-04T00:05:00+00:29
+
+- id: 30
+  primaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  title: HP Pro 3130
+  subtitle: SGH107Q4WY
+  detail: HP PRO 3130MT Core i3 3.07GHz / 4GB 320GB DVD-RW Win 10 Pro
+  secondaryImage: https://www.pureitrefurbished.co.uk/wp-content/uploads/2018/04/HP-Pro-3130-MT-Front.jpg
+  currency: Rs.
+  amount: 2500
+  endTime: 2025-04-04T00:05:00+00:30
+
+- id: 31
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: 3G3R82S
+  detail: Optiplex 990 MT i5 3.1GHz 8GB 320GB 
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:31
+
+- id: 32
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: F92R82S
+  detail: Optiplex 990 MT i5-3.10 GHz 8GB 320GB DVD-RW / Win 10 Pro (Not Working)
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 1500
+  endTime: 2025-04-04T00:05:00+00:32
+
+- id: 33
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: 8YZQ82S
+  detail: Optiplex 990 MT i5 3.1GHz 8GB DDR3 320GB HDD
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:33
+
+- id: 34
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: HWZQ82S
+  detail: Optiplex 990 MT i5- 3.30 GHz 8GB 320GB DVD-RW / Win 10 Pro (Not Working)
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 1000
+  endTime: 2025-04-04T00:05:00+00:34
+
+- id: 35
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: 7P1R82S
+  detail: Optiplex 990 MT i5-3.10 GHz 8GB 500GB DVD-RW / Win 10 Pro
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 4500
+  endTime: 2025-04-04T00:05:00+00:35
+
+- id: 36
+  primaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  title: Optiplex 990
+  subtitle: BXZQ82S
+  detail: Optiplex 990 MT i5 3.1GHz 4GB DDR3 500GB 
+  secondaryImage: https://m.media-amazon.com/images/I/91U3lCVJc2L._AC_SX466_.jpg
+  currency: Rs.
+  amount: 3500
+  endTime: 2025-04-04T00:05:00+00:36
+
+- id: 37
+  primaryImage: https://www.tietokonepalveluhietaniemi.fi/wp-content/uploads/2024/02/HP-ProDesk-400-G3-SFF-1-768x768.jpg
+  title: Prodesk 400 G3 MT
+  subtitle: SGHB52RSQR
+  detail: HP Probook desk 400-G3
+  secondaryImage: https://www.tietokonepalveluhietaniemi.fi/wp-content/uploads/2024/02/HP-ProDesk-400-G3-SFF-1-768x768.jpg
+  currency: Rs.
+  amount: 3500
+  endTime: 2025-04-04T00:05:00+00:37
+
+- id: 38
+  primaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  title: Optiplex 790
+  subtitle: GB3DD2S
+  detail: Dell Optiplex 790DT (Not Working)
+  secondaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  currency: Rs.
+  amount: 1500
+  endTime: 2025-04-04T00:05:00+00:38
+
+- id: 39
+  primaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  title: Optiplex 790
+  subtitle: BC3DD2S
+  detail: Optiplex 790DT i5-2400 CPU 3.10GHz 8GB 500GB HDD DVD-RW / Win 10
+  secondaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:39
+
+- id: 40
+  primaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  title: Optiplex 790
+  subtitle: 9C3DD2S
+  detail: Optiplex 790DT i5-2400 CPU 3.10GHz 8GB 500GB HDD DVD-RW / Win 10
+  secondaryImage: https://i5.walmartimages.com/seo/Restored-Dell-OptiPlex-790-Desktop-Towers-Computer-Intel-i5-Quad-Core-Gen-2-4GB-RAM-1TB-HD-Windows-10-Professional-64Bit-Black-Refurbished_9bb6b3cf-77d7-415a-948c-4763b390778a_1.7e0ab534a946f8dd132ceda7ea513ac5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+  currency: Rs.
+  amount: 4000
+  endTime: 2025-04-04T00:05:00+00:40
+
+- id: 41
+  primaryImage: https://static-data2.manualslib.com/product-images/e6f/607769/dell-optiplex-7010-desktop.jpg
+  title: Optiplex 7010
+  subtitle: 4KZJ4Y1
+  detail: OPTIPLEX 7010 Core i3 3.2 GHz 16GB 500GB HDD DVD-RW / Win 10 pro
+  secondaryImage: https://static-data2.manualslib.com/product-images/e6f/607769/dell-optiplex-7010-desktop.jpg
+  currency: Rs.
+  amount: 5500
+  endTime: 2025-04-04T00:05:00+00:41
+
+- id: 42
+  primaryImage: https://static-data2.manualslib.com/product-images/e6f/607769/dell-optiplex-7010-desktop.jpg
+  title: Optiplex 7010
+  subtitle: F02H4Y1
+  detail: OPTIPLEX 7010 Core i3 3.2 GHz 8GB 500GB DVDRW / Win 10 pro
+  secondaryImage: https://static-data2.manualslib.com/product-images/e6f/607769/dell-optiplex-7010-desktop.jpg
+  currency: Rs.
+  amount: 5000
+  endTime: 2025-04-04T00:05:00+00:42
+
+- id: 43
+  primaryImage: https://th.bing.com/th/id/OIP.Tox37X_JaA1TWTXPV-nqMwAAAA?rs=1&pid=ImgDetMain
+  title: Blackbox
+  subtitle: 
+  detail: Blackbox office i5 16GB 1TB 250GB SSD (Not Working)
+  secondaryImage: https://th.bing.com/th/id/OIP.Tox37X_JaA1TWTXPV-nqMwAAAA?rs=1&pid=ImgDetMain
+  currency: Rs.
+  amount: 3000
+  endTime: 2025-04-04T00:05:00+00:43

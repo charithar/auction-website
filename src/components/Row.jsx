@@ -18,7 +18,7 @@ export const Row = ({ item }) => {
     setBids(status.bids);
     if (status.winner) {
       getDoc(doc(db, "users", status.winner)).then((user) => {
-        setWinner(user.get("name"));
+        setWinner(user.get("name") + " <" + user.get("email") + ">");
       });
     } else {
       setWinner("");
@@ -44,7 +44,7 @@ export const Row = ({ item }) => {
   return (
     <tr>
       <td>{item.id}</td>
-      <td>{item.title}</td>
+      <td>{item.title} <small>({item.subtitle})</small></td>
       <td>{amount}</td>
       <td>{bids}</td>
       <td>{winner}</td>
@@ -74,5 +74,6 @@ Row.propTypes = {
     endTime: PropTypes.object.isRequired,
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
+    subtitle: PropTypes.string,
   })
 }

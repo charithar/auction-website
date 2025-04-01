@@ -47,7 +47,7 @@ const ItemModal = () => {
   const { activeItem, openModal, closeModal } = useContext(ModalsContext);
   const [secondaryImageSrc, setSecondaryImageSrc] = useState("");
   const minIncrease = 1;
-  const maxIncrease = 10;
+  const maxIncrease = 1000;
   const [bid, setBid] = useState();
   const [valid, setValid] = useState("");
   const [isSubmitting, setIsSubmitting] = useState("");
@@ -56,9 +56,14 @@ const ItemModal = () => {
 
   useEffect(() => {
     if (activeItem.secondaryImage === undefined) return;
-    import(`../assets/${activeItem.secondaryImage}.png`).then((src) => {
-      setSecondaryImageSrc(src.default)
-    })
+    if (activeItem.secondaryImage.startsWith("http")) {
+      setSecondaryImageSrc(activeItem.secondaryImage)
+    }
+    else {
+      import(`../assets/${activeItem.secondaryImage}.png`).then((src) => {
+        setSecondaryImageSrc(src.default)
+      })
+    }
   }, [activeItem.secondaryImage])
 
   useEffect(() => {
@@ -88,11 +93,11 @@ const ItemModal = () => {
       return;
     }
     // Ensure user has provided a username
-    if (auth.currentUser.displayName == null) {
-      setFeedback("You must provide a username before bidding!");
+    if (auth.currentUser?.displayName == null) {
+      setFeedback("You must signed in before bidding!");
       setValid("is-invalid");
       setTimeout(() => {
-        openModal(ModalTypes.SIGN_UP);
+        //openModal(ModalTypes.SIGN_UP);
         setIsSubmitting(false);
         setValid("");
       }, 1000)
@@ -150,7 +155,7 @@ const ItemModal = () => {
     <Modal type={ModalTypes.ITEM} title={activeItem.title}>
       <div className="modal-body">
         <p>{activeItem.detail}</p>
-        <img src={secondaryImageSrc} className="img-fluid" alt={activeItem.title} />
+        <img src={secondaryImageSrc} className="img-fluid popup-product-image" alt={activeItem.title} />
       </div>
       <div className="modal-footer justify-content-start">
         <div className="input-group mb-2">
@@ -171,7 +176,7 @@ const ItemModal = () => {
           <div className="invalid-feedback">{feedback}</div>
         </div>
         <label className="form-label">Enter {minBid} or more</label>
-        <p className="text-muted">(This is just a demo, you&apos;re not bidding real money)</p>
+        {/* <p className="text-muted">(This is just a demo, you&apos;re not bidding real money)</p> */}
       </div>
     </Modal>
   );
@@ -191,6 +196,7 @@ const SignUpModal = () => {
     setTimeout(() => {
       closeModal();
       setValid("");
+      //window.location.reload();
     }, 1000);
   };
 

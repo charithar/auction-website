@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import { onAuthStateChanged, signInAnonymously } from "firebase/auth";
+import { onAuthStateChanged, signInAnonymously, signInWithPopup } from "firebase/auth";
 import { getDoc, doc } from "firebase/firestore";
-import { auth, db } from "./config";
+import { auth, authProvider, db } from "./config";
 
 export const AutoSignIn = () => {
   const [user, setUser] = useState(null);
@@ -22,7 +22,10 @@ export const AutoSignIn = () => {
           }
         });
       } else {
-        signInAnonymously(auth);
+        setAdmin(false);
+        setUser(null);
+        //signInAnonymously(auth);
+        //signInWithPopup(auth, authProvider)
       }
     });
 

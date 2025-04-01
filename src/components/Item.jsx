@@ -36,9 +36,15 @@ export const Item = ({ item }) => {
   }, [item.endTime]);
 
   useEffect(() => {
-    import(`../assets/${item.primaryImage}.png`).then((src) => {
-      setPrimaryImageSrc(src.default)
-    })
+    if (item.primaryImage === undefined) return;
+    if (item.primaryImage.startsWith("http")) {
+      setPrimaryImageSrc(item.primaryImage)
+    }
+    else {
+      import(`../assets/${item.primaryImage}.png`).then((src) => {
+        setPrimaryImageSrc(src.default)
+      })
+    }
   }, [item.primaryImage])
 
   return (
@@ -46,12 +52,13 @@ export const Item = ({ item }) => {
       <div className="card h-100" onClick={() => openModal(ModalTypes.ITEM, item)}>
         <img
           src={primaryImageSrc}
-          className="card-img-top"
+          className="card-img-top product-image"
           alt={item.title}
         />
         <div className="card-body">
           <h5 className="title">{item.title}</h5>
           <h6 className="card-subtitle mb-2 text-body-secondary">{item.subtitle}</h6>
+          <h8 className="card-text">{item.detail}</h8>
         </div>
         <ul className="list-group list-group-flush">
           <li className="list-group-item"><strong>{amount}</strong></li>
@@ -70,5 +77,6 @@ Item.propTypes = {
     primaryImage: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
+    detail: PropTypes.string.isRequired,
   })
 }

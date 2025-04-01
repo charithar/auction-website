@@ -1,16 +1,19 @@
 import { useState, useEffect, useContext } from "react";
 import PropTypes from "prop-types";
 import { useNavigate, useLocation } from "react-router";
-import { auth } from "../firebase/config";
+import { auth, authProvider, db } from "../firebase/config";
 import { onAuthStateChanged } from "firebase/auth";
 import { ModalsContext } from "../contexts/ModalsProvider";
 import { ModalTypes } from "../utils/modalTypes";
+import { signInWithPopup } from "firebase/auth";
+import { updateProfile } from "firebase/auth";
+import { doc, setDoc, getDoc, updateDoc } from "firebase/firestore";
 
 const Navbar = ({ admin }) => {
   const openModal = useContext(ModalsContext).openModal;
   const navigate = useNavigate();
   const [user, setUser] = useState("");
-  const [authButtonText, setAuthButtonText] = useState("Sign up");
+  const [authButtonText, setAuthButtonText] = useState("Sign in");
   const [adminButtonText, setAdminButtonText] = useState("Admin");
   const location = useLocation();
 
@@ -38,10 +41,44 @@ const Navbar = ({ admin }) => {
 
   const handleAuth = () => {
     if (user) {
+      auth.signOut();
       setUser("");
-      setAuthButtonText("Sign up");
+      setAuthButtonText("Sign in");
     } else {
-      openModal(ModalTypes.SIGN_UP);
+      signInWithPopup(auth, authProvider).then((result) => {
+        // The signed-in user info.
+        const user = result.user;
+        console.debug(user);
+
+        const userDocRef = doc(db, "users", user.uid);
+        getDoc(userDocRef).then((docSnap) => {
+          console.debug(`Doc exists /${docSnap.exists()}`);
+          if (!docSnap.exists()) {
+            console.debug("New user created");
+            setDoc(doc(db, "users", user.uid), { name: user.displayName, email: user.email, admin: "" });
+          }
+        });
+        //updateProfile(user, { displayName: username });
+          
+        console.debug(`signUp() write to users/${user.uid}`);
+        //setTimeout(() => {
+          //window.location.reload();
+        //}, 1000);
+        // IdP data available using getAdditionalUserInfo(result)
+        // ...
+      }).catch((error) => {
+        // Handle Errors here.
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        console.log(errorCode + ' ' + errorMessage);
+        // The email of the user's account used.
+        //const email = error.customData.email;
+        // The AuthCredential type that was used.
+        //const credential = GoogleAuthProvider.credentialFromError(error);
+        // ...
+      });
+
+      //openModal(ModalTypes.SIGN_UP);
     }
   };
 
